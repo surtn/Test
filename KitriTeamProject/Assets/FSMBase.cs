@@ -8,6 +8,7 @@ using UnityEngine.AI;
 public class FSMBase : MonoBehaviour
 {
 	int test;
+	int test2;
 
 	public Rigidbody rigid;
 	public Animator anim;
