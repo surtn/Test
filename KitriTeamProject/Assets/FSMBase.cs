@@ -7,6 +7,8 @@ using UnityEngine.AI;
 
 public class FSMBase : MonoBehaviour
 {
+	int test;
+
 	public Rigidbody rigid;
 	public Animator anim;
 	public NavMeshAgent agent;
